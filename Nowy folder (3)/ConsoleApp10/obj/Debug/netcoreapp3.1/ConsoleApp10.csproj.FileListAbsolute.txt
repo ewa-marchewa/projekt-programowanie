@@ -1,0 +1,26 @@
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\PC\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+C:\Users\PC\Desktop\statki gra\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.genruntimeconfig.cache
